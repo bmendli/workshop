@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">workshop</string>
+
+    <string name="tag_popular">Популярное</string>
+    <string name="tag_new">Новое</string>
+    <string name="tag_family">Семейное</string>
+    <string name="tag_child">Детское</string>
+    <string name="tag_interesting">Интересное</string>
+
+    <string name="rating_pattern">%1$.1f/10</string>
+</resources>
